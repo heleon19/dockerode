@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "concat-stream": "~1.6.2",
-    "docker-modem": "^1.0.8",
+    "docker-modem": "git+https://github.com/heleon19/docker-modem.git#feature/agent",
     "tar-fs": "~1.16.3"
   },
   "devDependencies": {
